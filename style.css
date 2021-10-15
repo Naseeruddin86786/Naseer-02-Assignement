@@ -1,0 +1,91 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    font-family: 'Karla', sans-serif;
+}
+
+.Join {
+    margin: 30px 40px;
+}
+h1 {
+    color: rgb(30, 229, 255);
+    margin-bottom: 20px;
+}
+h4 {
+    color: rgb(213,227,130);
+    margin-bottom: 10px;   
+}
+
+.Join p {
+    color: rgb(151, 155, 158);
+}
+
+.tutorials {
+    margin-bottom: 3px;   
+}
+.Subscription{
+    color: honeydew;
+    font-size: 20px;
+}
+button:focus{
+color: honeydew;
+background-color: yellowgreen;
+}
+.firstsection {
+    background-color: #2CB2B1;
+    width: 380px;
+    height: 260px;
+    padding: 20px 40px 20px 40px;
+    float: left;
+    box-sizing: border-box;
+}
+.Subscribe {
+    color: whitesmoke;
+    margin-top: 20px;
+}
+
+.day {
+    color: whitesmoke;
+}
+.Month {
+    color: whitesmoke;
+    margin: 20px 0 12px ; 
+}
+.dollar {
+    color: whitesmoke;
+    font-size: 30px;
+    font-weight: bold;
+}
+button {
+    width: 150px;
+    height: 30px;
+    background-color: rgb(191,223,50);
+    border: none;
+    border-radius: 5px;  
+    color: whitesmoke;
+    margin: 30px 0;
+}
+
+.permonth {
+opacity: 0.6;
+}
+
+.box2 {
+    width: 380px;
+    height: 260px;
+    color: white;
+    font-size: 16px;
+    background-color:rgb(73,193,191) ;        
+}
+
+.box2 h3 {
+    margin: 20px 0 10px;
+}
+.box2 p {
+margin: 6px 0;
+}
